@@ -24,15 +24,3 @@ Run the app on an emulator or physical device.
 🛠️ Known Issues
 NoteScreen.kt Error: The app currently crashes due to an unresolved issue in NoteScreen.kt. The error relates to displaying note descriptions.
 Fix in Progress: Working on resolving the issue with note display logic.
-
-🤝 Contributing
-
-Fork the repository.
-
-Create your feature branch: git checkout -b feature/YourFeature
-
-Commit your changes: git commit -m 'Add your feature'
-
-Push to the branch: git push origin feature/YourFeature
-
-Open a pull request.
